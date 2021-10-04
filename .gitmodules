@@ -1,0 +1,6 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/Odie/sksevr-common-mirror
+[submodule "skse"]
+	path = skse
+	url = https://github.com/Odie/sksevr-mirror
